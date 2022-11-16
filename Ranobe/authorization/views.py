@@ -29,3 +29,5 @@ def input_data_about_user(request):
             return render(request, 'authorization/promo2.html', context=data_keys)
 
     return render(request, 'authorization/promo2.html', context=data_keys)
+
+# I was here!
